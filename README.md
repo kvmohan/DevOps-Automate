@@ -3,7 +3,13 @@
 
 This project is about the automation of the things which takes place in the industries. This is the small infrastructure that are build in the industries. The DevOps tools such as Git, GitHub, Jenkins, Docker are used in this project.
 
-## Working of the Project:
+## Content:
+
+* Work Flow
+* Steps
+* Video
+
+## WorkFlow of the Project:
 
 ![](workflow.jpg)
 
@@ -70,7 +76,7 @@ This project is about the automation of the things which takes place in the indu
 
 ## Video of the project working 
 
-![](devops.mp4)
+https://youtu.be/IFKEktoAzhk
 
 ## Author
 
