@@ -68,6 +68,9 @@ This project is about the automation of the things which takes place in the indu
 
 ## In this all the things are automated with the help of the Jenkins. 
 
+## Video of the project working 
+
+![](devops.mp4)
 
 ## Author
 
