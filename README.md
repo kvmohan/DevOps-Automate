@@ -1,9 +1,9 @@
 # DevOps-Automate
-## About Project
+## About Project 
 
 This project is about the automation of the things which takes place in the industries. This is the small infrastructure that are build in the industries. The DevOps tools such as Git, GitHub, Jenkins, Docker are used in this project.
 
-## Content:
+## Content :
 
 * Work Flow
 * Steps
